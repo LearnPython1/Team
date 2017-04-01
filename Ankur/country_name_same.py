@@ -1,11 +1,3 @@
-import csv
-#
-# x = open('C:\Users\Ankur\Desktop\country_list.txt', "r")
-# for line in x:
-#     line = line.rstrip()
-#     if line.find(' the ') == -1 :
-#         continue
-#     print line
 
 fh_country = open('C:\Users\Ankur\Desktop\country_list.txt', "r")
 country_lines = fh_country.readlines()
