@@ -1,6 +1,7 @@
 import csv
 
 fh_country = open("/Users/AMIT/python/country-list.csv", "r")
+
 #csv_file = csv.reader(fh_country)
 #for line in csv_file:
     #print line
